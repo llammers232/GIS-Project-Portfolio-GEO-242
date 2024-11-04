@@ -19,4 +19,4 @@ Lauryn Lammers
 ## Restor Image Analysis
 
  - [Understand Landsat Band Composition](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/raster-data-analysis/band-composition-for-landsat.ipynb)
- -[Spatial Analysis for Raster Data](https://colab.research.google.com/gist/llammers232/ec3be7ac53a80e04ba1b19bec6496986/week-09-assignment-template.ipynb)
+ - [Spatial Analysis for Raster Data](https://colab.research.google.com/gist/llammers232/ec3be7ac53a80e04ba1b19bec6496986/week-09-assignment-template.ipynb)
