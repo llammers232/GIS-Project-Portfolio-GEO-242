@@ -24,4 +24,4 @@ Lauryn Lammers
 
 ## Spatial Analysis
 
- - [Buffer Analysis](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/raster-data-analysis/band-composition-for-landsat.ipynb](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/Spatial-Analysis/Buffer-Analysis.ipynb)
+- [Buffer Analysis](https://colab.research.google.com/gist/llammers232/ec3be7ac53a80e04ba1b19bec6496986/week-09-assignment-template.ipynb)
