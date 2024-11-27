@@ -25,4 +25,4 @@ Lauryn Lammers
 ## Spatial Analysis
 
 - [Buffer Analysis](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/Spatial-Analysis/Buffer-Analysis.ipynb)
-- [Working with Census Data]([https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/Spatial-Analysis/Buffer-Analysis.ipynb](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/Spatial-Analysis/Working_with_Census_Data.ipynb))
+- [Working with Census Data](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/Spatial-Analysis/Working_with_Census_Data.ipynb)
