@@ -13,8 +13,8 @@ Lauryn Lammers
 
 ## Map Coordinate Basics
 
-- [Understanding map coordinates](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/map-coordinate-basics/understanding-coordinates.ipynb)
-- [Georeference a 1960s Miami University campus map](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/map-coordinate-basics/Georeference-a-1960s-Miami-University-campus-map.ipynb)
+- [Understanding map coordinates](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/Mapping-Basics/understanding-coordinates.ipynb)
+- [Georeference a 1960s Miami University campus map](https://github.com/llammers232/GIS-Project-Portfolio-GEO-242/blob/main/Mapping-Basics/Georeference-a-1960s-Miami-University-campus-map.ipynb)
 
 ## Restor Image Analysis
 
